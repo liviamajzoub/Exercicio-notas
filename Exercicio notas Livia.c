@@ -15,7 +15,7 @@ int main(){
        printf("Aprovado direto. ");
     else if (media >=4)
        printf("Vai para final. ");
-    else (media <4)
+    else
        printf("Reprovado direto. ")
        return 0;
 }
