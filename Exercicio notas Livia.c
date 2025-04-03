@@ -10,10 +10,10 @@ int main(){
     media = (n1 + n2 + n3 + n4) / 4;
 
     if (media >8)
-       printf("Aprovado com distinção. ");
-    if else (media >=6)
+       printf("Aprovado com distinÃ§Ã£o. ");
+    else if (media >=6)
        printf("Aprovado direto. ");
-    if else (media >=4)
+    else if (media >=4)
        printf("Vai para final. ");
     else (media <4)
        printf("Reprovado direto. ")
